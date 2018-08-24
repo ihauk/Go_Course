@@ -8,6 +8,9 @@ go语言高级编程: https://chai2010.gitbooks.io/advanced-go-programming-book/
 
 深入CGO编程: https://github.com/chai2010/gopherchina2018-cgo-talk
 
+深入解析go ： https://www.laojiyou.com/books/shenrujiexigo/
+
+
 #  kubernetes 相关
 ## 书籍
 kubernetes 从入门到实践: https://www.kancloud.cn/huyipow/kubernetes/531982
