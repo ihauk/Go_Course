@@ -14,6 +14,7 @@ go语言高级编程: https://chai2010.gitbooks.io/advanced-go-programming-book/
 #  kubernetes 相关
 ## 书籍
 kubernetes 从入门到实践: https://www.kancloud.cn/huyipow/kubernetes/531982
+kubernetes 中文指南：https://jimmysong.io/kubernetes-handbook/
 
 ## 文章
 Daemonset：http://www.dockerinfo.net/1139.html
