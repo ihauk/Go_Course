@@ -1,4 +1,7 @@
-# go语言书籍
+# go语言
+## 书籍
+the way to go ： https://www.kancloud.cn/kancloud/the-way-to-go/72529
+
 go语言圣经:  https://books.studygolang.com/gopl-zh/
 
 go语言高级编程: https://chai2010.gitbooks.io/advanced-go-programming-book/content/
