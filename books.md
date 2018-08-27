@@ -17,6 +17,8 @@ kubernetes 从入门到实践: https://www.kancloud.cn/huyipow/kubernetes/531982
 
 kubernetes 中文指南：https://jimmysong.io/kubernetes-handbook/
 
+kubernetes指南 ：https://legacy.gitbook.com/book/feisky/kubernetes/details
+
 ## 文章
 Daemonset：http://www.dockerinfo.net/1139.html
 
