@@ -10,6 +10,8 @@ go语言高级编程: https://chai2010.gitbooks.io/advanced-go-programming-book/
 
 深入解析go ： https://www.laojiyou.com/books/shenrujiexigo/
 
+Go语言标准库 ： https://www.bookstack.cn/read/The-Golang-Standard-Library-by-Example/README.md
+
 
 #  kubernetes 相关
 ## 书籍
